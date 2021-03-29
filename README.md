@@ -29,5 +29,10 @@ Future challenge: implement this project from scratch using using recorded video
 - project_result.mp4
 <img src="./project_result.gif" width="480" alt="Project result" />
 
--challenge_result.mp4
+
+- challenge_result.mp4
 <img src="./challenge_result.gif" width="480" alt="Challenge result" />
+
+
+- harder_challenge_result.mp4
+<img src="./harder_challenge_result.gif" width="480" alt="Harder challenge" />
