@@ -23,3 +23,8 @@ Saved examples of the output from each stage of the pipeline are in the folder c
 The `challenge_video.mp4` video is an extra challenge to test the pipeline under trickier conditions.  The `harder_challenge.mp4` video is another challenge and is brutal!
 
 Future challenge: implement this project from scratch using using recorded video!
+
+# Results
+
+- project_result
+<img src="./project_result.gif" width="480" alt="Project result" />
