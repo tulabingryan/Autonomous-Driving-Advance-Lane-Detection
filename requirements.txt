@@ -25,7 +25,7 @@ jupyter-core==4.4.0
 Keras==2.0.4
 MarkupSafe==1.0
 matplotlib==2.0.0
-mistune==0.7.3
+mistune==2.0.3
 moviepy==0.2.3.4
 nbconvert==5.1.1
 nbformat==4.3.0
